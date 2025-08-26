@@ -45,5 +45,5 @@ out/           # Common build output
 # Ignore project-specific temporary files
 tmp/
 
-# Database connection file
+# Database connection file////
 backend/src/db/db.js
