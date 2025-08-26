@@ -46,4 +46,4 @@ out/           # Common build output
 tmp/
 
 # Database connection file
-db/db.js
+backend/src/db/db.js
